@@ -1,2 +1,2 @@
 # Customer_Analysis
-Complete End-to-End Data Analysis Project
+Complete End-to-End Data Analysis Project using Python , SQL and Power BI
